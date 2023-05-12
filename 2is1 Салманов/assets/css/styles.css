@@ -1,0 +1,39 @@
+body {
+  color: #FFFFFF;
+}
+li {
+  list-style-type: none;
+}
+.fon {
+  display: flex;
+  flex-direction: row;
+}
+.panel {
+  width: 110px;
+  background-color:#252525 ;
+}
+.nav {
+  display: flex;  
+  gap: 60px;
+}
+.nav__auxpro {
+  margin-right: 600px;
+}
+.wrapper {
+  background-color: #252525;
+}
+.block1 {
+  display: flex;
+}
+.nums {
+  margin-right: 570px;
+}
+.maria {
+  display: flex;
+}
+.token__list {
+  display: flex;
+}
+.enzo__list {
+  display: flex;
+}
