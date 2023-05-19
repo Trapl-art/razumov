@@ -1,0 +1,178 @@
+
+body {
+  background-color: rgb(48, 48, 49);
+  color: aliceblue;
+  font-family: 'Catamaran';
+  font-style: normal
+}
+li {
+  list-style-type: none;
+}
+.fon {
+  display: flex;
+  flex-direction: row;
+  margin-left: 200px;
+  margin-right: auto;  
+}
+.panel {
+  width: 110px;
+  background-color:#252525 ;
+  border-right: 1px solid #505050;
+}
+.frame {
+  background: linear-gradient(#505050, #383838);
+  padding: 40px;
+}
+.icons {
+  padding-top: 275px;
+}
+.icons__items {
+  padding-top: 70px;
+}
+.nav {
+  display: flex;  
+  gap: 60px;
+  padding-right: 70px;
+  padding-top: 50px;
+}
+.nav__auxpro {
+  margin-right: 600px;
+  font-weight: 1000;
+  margin-top: -30px;
+}
+.wrapper {
+  background-color: #252525;
+  background-image: url(/ceaser/assets/img/ceaser.png);
+  background-repeat: no-repeat;
+  background-size: 600px;
+  background-position-x: 30%;
+}
+.block1 {
+  display: flex;
+}
+.nums {
+  margin-right: 535px;
+  margin-bottom: 60px;
+}
+.maria {
+  display: flex;
+  width: 1211px;
+  height: 225px;
+  background: linear-gradient(270deg, rgba(66, 66, 66, 0.49) 0%, rgba(66, 66, 66, 0.4753) 76.04%, rgba(66, 66, 66, 0) 100%);
+  backdrop-filter: blur(23.6458px);
+}
+.token__list {
+  display: flex;
+  position: absolute;
+  gap: 123px;
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17.025px;
+  line-height: 21px;
+  letter-spacing: 0.05em;
+}
+.enzo__list {
+  display: flex;
+  gap: 80px;
+  position: absolute;
+  color: #BCBCBC;
+  font-weight: 500;
+  font-size: 17.025px;
+  line-height: 28px;
+  letter-spacing: 0.05em;
+}
+button {
+  background: none;
+  border: none;
+  padding: 0;
+}
+.button__buy {
+  display: flex;
+}
+.maria_img {
+  width: 225px;
+  height: 225px;
+  align-items: end;
+  margin-left: auto;
+}
+.buy__element1 {
+  background-color: aliceblue;
+  padding: 5px;
+  padding-top: 10px;
+  margin-right: 30px;
+  border-bottom: 2px solid#5025FB;
+  border-right: 5px solid #5025FB;
+  border-top: 2px solid #FB258B;
+  border-left: 5px solid #FB258B;
+}
+.buy__element2 {
+  border: 1px solid #FFFFFF;
+  padding: 5px;
+}
+.win3d {
+  font-family: 'Caudex';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45.4px;
+  line-height: 118%;
+  letter-spacing: 0.005em;
+  color: #FFFFFF;
+
+}
+.printed {
+  text-shadow: 10px 10px rgba(47, 0, 255, 0.25), -7px 0px rgba(255, 0, 200, 0.25);
+}
+.bid { 
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 139.5%;
+  color: #BCBCBC;
+  letter-spacing: 0.065em;
+}
+.mgr {
+  font-family: 'Caudex';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22.7px;
+  line-height: 29px;
+  letter-spacing: 0.05em;
+}
+.num1 {
+  font-family: 'Catamaran';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22.7px;
+  line-height: 139.5%;
+}
+.num2, .num3 {
+  font-family: 'Catamaran';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17.0843px;
+  line-height: 139.5%;
+  color: #BCBCBC;
+}
+.line1 {
+  height: 2px;
+  margin: 0;
+  border: 0;
+  background: linear-gradient(to right, #D9D9D9 0%, transparent 100%);
+}
+.line2, .line3 {
+  height: 2px;
+  margin: 0;
+  border: 0;
+  background: linear-gradient(to right, #BCBCBC 0%, transparent 100%);
+}
+.elipse {
+  display: flex;
+  margin-top: 70px;
+  gap: 15px;
+}
+.elipse__element {
+  border-radius: 100%;
+  background-color: #ffffff;
+  width: 10px;
+  height: 10px;
+}
