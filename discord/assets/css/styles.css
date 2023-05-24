@@ -1,0 +1,47 @@
+.discord {
+  border: 1px solid ;
+}
+.tochka1 {
+  border-radius: 100%;
+  background-color: #f70808;
+  width: 10px;
+  height: 10px;
+}
+.tochka2 {
+  border-radius: 100%;
+  background-color: #f3f708;
+  width: 10px;
+  height: 10px;
+}
+.tochka3 {
+  border-radius: 100%;
+  background-color: #08f730;
+  width: 10px;
+  height: 10px;
+}
+li {
+  list-style-type: none;
+}
+.nav__list {
+  background-color: #000000;
+  width: 80px;
+}
+.nav__items1 {
+  display: flex;
+  gap: 5px;
+  padding-top: 5px;
+  margin-left: 15px;
+}
+.nav__items2, .nav__items3, .nav__items4, .nav__items5, .nav__items6, .nav__items7, .nav__items8, .nav__items9 {
+  background-color:#f70808;
+  border-radius: 50%;
+  margin: 15px;
+  width: 40px;
+  height: 40px;
+}
+.nav__items3 {
+  background-color:#E25A5A;
+}
+.nav__items4 {
+  background-color:#f5990e;
+}
